@@ -1,0 +1,63 @@
+body {
+	background-color: #e1e1e1;
+}
+
+/*Categori*/
+.judul-categori {
+	background-color: white;
+	padding: 5px 10px;
+}
+
+.img-categori {
+	width: 50px;
+}
+
+.img-categori:hover {
+	transform: scale(1.2);
+	transition: 0.2s;
+}
+
+
+.row-container {
+	background-color: white;
+	margin: 0px;
+}
+
+/*Barang*/
+.judul-barang {
+	background-color: white;
+	padding: 5px 10px;
+}
+
+.itext {
+	font-size: 10px;
+	text-decoration: line-through;
+}
+
+.icon-bintang {
+	color: gold;
+}
+
+.card-text {
+	font-size: 15px;
+	font: bold;
+	color: #e11616;
+}
+
+.card:hover {
+	border: 1px solid black;
+}
+
+/*Footer*/
+footer {
+	background-color: #FFFFFF;
+	padding: 1rem;
+	margin-top: 4rem;
+	color: black;
+}
+
+.copy {
+	text-decoration: none;
+	color: blue;
+	font-weight: bold;
+}
